@@ -15,6 +15,8 @@
 #include <ratio>
 #include <type_traits>
 
+/// @todo add option to prevent automatic ratio conversion
+
 /// Namespace containing all SI units
 namespace SI::detail {
 
